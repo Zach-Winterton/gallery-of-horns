@@ -19,6 +19,11 @@ class App extends React.Component {
         imageUrl={"https://aadisalman.net/wp-content/uploads/2017/05/markhor-goat-animalcorner.co_.uk_.jpg"}
         description={"Markhor Goat relaxing in some hay"}
         />
+        <Main
+        title={"The Majestic Jackalope"}
+        imageUrl={"https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/05/jackalope.jpg"}
+        description={"Jackalope on the look out for predators"}
+        />
         <Footer/>
       </>
     );
