@@ -8,23 +8,9 @@ class App extends React.Component {
   render(){
     return (
       <>
-        <Header/>
-        <Main
-        title={"Caribou"}
-        imageUrl={"https://images.ctfassets.net/pujs1b1v0165/1DPJqJOApRdGwM7nlgFWz5/737f2848161494c7d691445f098e28ac/A-Guide-to-Hunting-Caribou.jpg?w=1200&fit=fill"}
-        description={"Herd of Caribou crossing a river"}
-        />
-        <Main
-        title={"Markhor Goat"}
-        imageUrl={"https://aadisalman.net/wp-content/uploads/2017/05/markhor-goat-animalcorner.co_.uk_.jpg"}
-        description={"Markhor Goat relaxing in some hay"}
-        />
-        <Main
-        title={"The Majestic Jackalope"}
-        imageUrl={"https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/05/jackalope.jpg"}
-        description={"Jackalope on the look out for predators"}
-        />
-        <Footer/>
+        <Header />
+        <Main />
+        <Footer />
       </>
     );
   }
