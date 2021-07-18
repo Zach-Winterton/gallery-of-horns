@@ -1,7 +1,7 @@
 import React from 'react';
 import HornedBeast from './HornedBeast.js';
 import data from './data.json';
-
+import CardColumns from 'react-bootstrap/CardColumns';
 class Main extends React.Component {
 
   render() {
@@ -10,7 +10,7 @@ class Main extends React.Component {
       let hornedAnimal = <HornedBeast
       key={index}
       title={itemInformation.title}
-      imageUrl={itemInformation.imageUrl}
+      imageUrl={itemInformation.image_url}
       description={itemInformation.description}
       />
       gallery.push(hornedAnimal);
@@ -18,7 +18,9 @@ class Main extends React.Component {
 
     return (
       <main>
+        <CardColumns>
         {gallery}
+        </CardColumns>
       </main>
     );
   }
