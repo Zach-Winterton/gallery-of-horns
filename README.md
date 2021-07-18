@@ -16,34 +16,12 @@ Application that displays images and information of horned animals. This app wil
 * This is also a good place to reflect on the tools and resources used and learned
 
 
-Number and name of feature: Feature #1: Display images
+Number and name of feature: Feature #1: Display a Modal
 
-Estimate of time needed to complete: 2 hours
+Estimate of time needed to complete:4 hours
 
-Start time: 8pm
+Start time: 4pm
 
-Finish time: 11pm
+Finish time: 10pm
 
-Actual time needed to complete: Not completed yet, bootstrap does not seem to be working
-
-
-Number and name of feature: Feature #2: Allow users to vote for their favorite beast
-
-Estimate of time needed to complete: 2 hours
-
-Start time: 8pm
-
-Finish time: 11pm
-
-Actual time needed to complete: Not completed yet, bootstrap does not seem to be working
-
-
-Number and name of feature: Feature 3: Bootstrap
-
-Estimate of time needed to complete: 1 hour
-
-Start time: 8pm
-
-Finish time: 11pm
-
-Actual time needed to complete: not completed yet, bootstrap does not seem to be working
+Actual time needed to complete: 6 hours
