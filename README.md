@@ -24,7 +24,7 @@ Start time: 8pm
 
 Finish time: 11pm
 
-Actual time needed to complete: Not completed yet, bootstrap does not seem to be working
+Actual time needed to complete: 3 hours
 
 
 Number and name of feature: Feature #2: Allow users to vote for their favorite beast
@@ -35,7 +35,7 @@ Start time: 8pm
 
 Finish time: 11pm
 
-Actual time needed to complete: Not completed yet, bootstrap does not seem to be working
+Actual time needed to complete: 3 hours
 
 
 Number and name of feature: Feature 3: Bootstrap
@@ -46,4 +46,4 @@ Start time: 8pm
 
 Finish time: 11pm
 
-Actual time needed to complete: not completed yet, bootstrap does not seem to be working
+Actual time needed to complete: 3 hours
