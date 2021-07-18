@@ -7,7 +7,7 @@ class HornedBeast extends React.Component {
   constructor(props){
     super(props);
     this.state = {
-      onStandby: 0,
+      OnStandby: 0,
     }
   }
 
@@ -34,7 +34,7 @@ class HornedBeast extends React.Component {
           <img id="emoji heart" src="https://emoji.gg/assets/emoji/2594-pretzel-hearts.png" alt="pretzel heart" />
           <p>{this.props.description}</p>
           <Button variant="outline-primary" onClick={this.addition}>Ohhh Yeahhh!</Button>
-          <Button variant="outline-secondary" onClick={this.subtract}>Ohhh Nooo!</Button>
+          <Button variant="outline-secondary" onClick={this.subtract}>Where's the horns?!?</Button>
         </Card.Text>
       </Card.Body>
     </Card>
