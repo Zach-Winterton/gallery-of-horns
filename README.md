@@ -16,12 +16,12 @@ Application that displays images and information of horned animals. This app wil
 * This is also a good place to reflect on the tools and resources used and learned
 
 
-Number and name of feature: Feature #1: Display a Modal
+Number and name of feature: Feature #1: Filter by Number of Horns
 
-Estimate of time needed to complete:4 hours
+Estimate of time needed to complete: 3 hours
 
-Start time: 4pm
+Start time: 7:50
 
-Finish time: 10pm
+Finish time: 10
 
-Actual time needed to complete: 6 hours
+Actual time needed to complete: 3 hours or so
