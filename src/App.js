@@ -5,6 +5,7 @@ import Footer from './Footer.js';
 import data from './data.json';
 import SelectedBeast from './SelectedBeast.js';
 import './App.css';
+import HornedBeast from './HornedBeast.js';
 
 class App extends React.Component {
   constructor(props){
@@ -16,9 +17,11 @@ class App extends React.Component {
     }
   }
 
-  ShowModal = () => {
+  ShowModal = (beastImg) => {
+    let beast = data.find(selectedBeast => selectedBeast.title === beastImg) 
     this.setState({
       showModal: true,
+      selectedBeast: beast,
     });
   }
 
@@ -36,6 +39,7 @@ class App extends React.Component {
         <SelectedBeast 
         ShowModal={this.state.showModal}
         CloseModal={this.CloseModal}
+        beast={this.state.selectedBeast}
         />
         <Footer />
       </>
